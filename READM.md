@@ -9,8 +9,8 @@ O Cypress é um framework de testes ponta a ponta baseado em JavaScript que perm
 - Login válido
 - Login Inválido.
 
-**Realizado teste para alteração das informações do usuário utilizando a biblioteca ChanceJS**
-- Alrerada informações: Nome, Sobrenome, ID, Data, Nacionalidade, etc.
+**Realizado teste para alteração das informações do usuário utilizando a biblioteca ChanceJS.**
+- Alterada informações: Nome, Sobrenome, ID, Data, Nacionalidade, etc.
 
 ## Instalação do Cypress no projeto
 ```bash
@@ -35,7 +35,7 @@ Cypress is a JavaScript-based end-to-end testing framework that allows developer
 - Valid Login
 - Invalid Login
 
-**Performed User Information Update Tests Using the ChanceJS Library**
+**Performed User Information Update Tests Using the ChanceJS Library.**
 - Updated information: First Name, Last Name, ID, Date, Nationality, etc.
 
 ## Installing Cypress in the Project
