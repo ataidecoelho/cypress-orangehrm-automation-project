@@ -1,6 +1,6 @@
 # Projeto de Automação Utilizando Cypress
 
-Este é um projeto em andamento realizando automação de testes E2E com o Cypress e utilizado a plataforma Open Source OrangeHRM
+Este é um projeto em andamento realizando automação de testes E2E com o Cypress e utilizado a plataforma Open Source OrangeHRM.
 https://opensource-demo.orangehrmlive.com/web/index.php
 
 O Cypress é um framework de testes ponta a ponta baseado em JavaScript que permite aos desenvolvedores escrever testes e executá-los em um navegador real.
@@ -27,6 +27,8 @@ npx cypress open
 # Automation Project Using Cypress
 
 This is an ongoing project conducting E2E automation testing with Cypress, utilizing the open-source platform OrangeHRM.
+https://opensource-demo.orangehrmlive.com/web/index.php
+
 Cypress is a JavaScript-based end-to-end testing framework that allows developers to write tests and run them in a real browser.
 
 **Performed Login Functionality Tests:**
