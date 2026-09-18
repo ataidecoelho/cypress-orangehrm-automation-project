@@ -37,7 +37,7 @@ O **Cypress** é um framework de testes baseado em JavaScript que executa direta
 
 1. **Inicializar o projeto Node e Instalar o Cypress:**
    ```bash
-   npm init -y
+   npm init
    npm install cypress --save-dev
    ```
 
@@ -87,7 +87,7 @@ This is an ongoing project conducting end-to-end (E2E) automation testing with *
 
 1. **Initialize Node project and Install Cypress:**
    ```bash
-   npm init -y
+   npm init
    npm install cypress --save-dev
    ```
 
