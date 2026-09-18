@@ -51,11 +51,7 @@ O **Cypress** é um framework de testes baseado em JavaScript que executa direta
    npx cypress open
    ```
 
-4. **Executar em modo Headless (Terminal):**
-   ```bash
-   npx cypress run
-   ```
-
+  
 ---
 
 ## 🇺🇸 English
@@ -101,10 +97,7 @@ This is an ongoing project conducting end-to-end (E2E) automation testing with *
    npx cypress open
    ```
 
-4. **Run in Headless mode (Terminal):**
-   ```bash
-   npx cypress run
-   ```
+
 
 ---
 
